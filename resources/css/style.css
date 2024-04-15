@@ -110,7 +110,7 @@ body {
   letter-spacing:0.25rem ;
 }
 
-/* ............//// Showcase styling ////......... */
+/* ............//// Showcase section ////......... */
 
 .showcase-area {
   height: 50vh;
@@ -138,7 +138,7 @@ body {
   margin-top: 1.5em;
 }
 
-/* ......//about us//...... */
+/* ......//about section//...... */
 
 #about {
   padding: 50px 0;
@@ -201,7 +201,7 @@ body {
   object-position: right;
 }
 
-/* ..........////Food category///........... */
+/* ..........////Food section///........... */
 
 #food {
   padding: 5rem 0 10rem 0;
@@ -286,7 +286,7 @@ body {
 
 }
 
-/* .........../Food Menu/............ */
+/* .........../Food Menu section/............ */
 
 .food-menu-heading {
   text-align: center;
@@ -338,7 +338,7 @@ body {
   font-weight: 700;
 }
 
-/* ........./ Testimonial /.......... */
+/* ........./ Testimonial section/.......... */
 
 #testimonials {
   padding: 5rem 0;
@@ -383,7 +383,7 @@ body {
   margin: auto;
 }
 
-/* ........ Contact Us........... */
+/* ........ Contact section........... */
 
 #contact {
   padding: 5rem 0;
