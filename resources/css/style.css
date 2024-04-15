@@ -119,7 +119,7 @@ body {
       rgba(255, 255, 255, 0.336)
     ),
     /* url("https://i.postimg.cc/wT3TQS3V/header-image2.jpg"); */
-    url("resources/images/background/background.jpg");
+    url(resources/images/background/background.jpg);
 
   background-size:cover;
   background-position:center;
