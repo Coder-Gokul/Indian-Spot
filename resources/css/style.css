@@ -541,10 +541,6 @@ body {
     font-size: 1.3rem;
     font-weight: 500;
   }
-  .showcase-area {
-
-    background-size:1000px;
-  }
   .logo {
     position: absolute;
     top: 15px;
@@ -638,9 +634,7 @@ body {
     font-size: 1.8rem;
     font-weight: 500;
   }
-  .showcase-area {
-    background-size:1000px;
-  }
+ 
 }
 
 @media (min-width: 769px) and (max-width: 1200px) {
